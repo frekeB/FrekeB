@@ -1,0 +1,12 @@
+.language-container{
+    margin-left:41px;
+}
+.language-item{
+    letter-spacing: 1px;
+}
+.language-item:before{
+content: '------ :::'
+}
+.language-item:after{
+    content:':::'
+}
