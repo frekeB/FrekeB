@@ -1,0 +1,101 @@
+body{
+    background-color: #add8e6;
+}
+
+form input, form select{
+    width:100%;
+    padding:16px 0px;
+    border-radius: 5px;
+    outline: #edf2f7;
+    background: #edf2f7;
+    border: 2px solid azure ;
+    margin-bottom:20px;
+    text-indent: 1rem;
+
+}
+header{
+    margin-bottom: 20px;
+}
+h1{
+    font-size: 1.5rem;
+    color: #083e9e;
+    text-align: center;
+    font-weight: 700;
+    font-family: U8,sans-serif;
+    padding:0;
+    margin: 0;
+}
+p{
+    font-size: .875rem;
+    color: #4a5568;
+    text-align: center;
+    font-family: karla,sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+div.container{
+    align-items: center;
+    border-bottom-right-radius: 1.25rem;
+    border-top-left-radius: 1.25rem;
+    border-top-right-radius: 1.25rem;
+    max-width: 400px;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 40px;
+    padding-bottom: 30px;
+background-color: #ffffff;
+border: 0 solid #e2e8f0;
+margin: auto;
+}
+div{ 
+    display: block;
+}
+html{
+    font-family: -apple-system, BlinkMacSystemFont, 
+    'Segoe UI', Roboto, Oxygen, Ubuntu, noto sans,
+     Cantarell, 'Open Sans',
+     'Helvetica Neue',sans-serif;
+     line-height: 1.5;
+     box-sizing: inherit;
+}
+button{
+    font-weight: 700;
+    font-size: 16px;
+    font: U8,sans-serif;
+    color: #ffffff;
+    background: #083e9e;
+    width: 100%;
+    border-bottom-right-radius: 1.25rem;
+    border-top-left-radius: 1.25rem;
+    border-top-right-radius: 1.25rem;
+    align-items: center;
+    flex-direction: column;
+    display: flex;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left:  16px;
+    cursor: pointer;
+}
+.logo{
+    margin: 0, auto;
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 40px;
+
+}
+.login-container{
+    text-align: center;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    padding-left: 40px;
+    
+    
+}
+a{
+    color: #ffffff ;
+    font-size: .875rem ;
+    text-decoration: none;
+       
+}
+
