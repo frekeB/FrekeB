@@ -1,0 +1,35 @@
+// function with parameter num
+function divide(num) {
+
+    const knownDivisor = {
+      "2": "yu",
+      "5": "oh",
+      "3": "gi",
+    };
+  
+    const result = [];
+  // loop to
+    for (i = 1; i <= num; i++) {
+  
+      let dividents = [];
+      
+      if (i % 2 === 0) {
+        dividents.push(knownDivisor["2"]);
+      }
+      if (i % 5 === 0) {
+        dividents.push(knownDivisor["5"]);
+      }
+      if (i % 3 === 0) {
+        dividents.push(knownDivisor["3"]);
+      }
+      if (dividents.length) {
+        dividents.length > 1 ? result.push(dividents.join("-")) : result.push(dividents[0]);
+      } else {
+        result.push(i);
+      }
+    }
+  
+    return result
+  }
+  
+  console.log(divide(90))
