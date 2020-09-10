@@ -1,6 +1,5 @@
 # My Details
-## Name: Ndifreke Etukudo
-## Email: etukfrekeb@gmail.com 
+## Name: Ndifreke Etukuo
 ## Slack Username: FrekeB   
 ## Track: Frontend
 ## Courses:
