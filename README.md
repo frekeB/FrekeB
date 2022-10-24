@@ -1,3 +1,3 @@
-### Ndifreke Etukudo a dynamic and result driven software developer;
-###Node.js, Javascript, TypeScript, React js, Mongo DB;etc
+### I am a dynamic and result driven software developer;
+I speak Node.js, Javascript, TypeScript, Reactjs, MongoDB;etc
 
