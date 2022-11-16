@@ -19,7 +19,7 @@ You can click the Preview link to take a look at your changes.
   <a href="https://app.codesignal.com/profile/muhammed_29x">
     Algorithm skills profile(Codesignal)
   </a>
-<img src="https://www.codewars.com/users/YinotheRhino/badges/large" alt="Yinotherhino Codewars Badge">
+<img src="https://www.codewars.com/users/frekeB/badges/large" alt="Freke Codewars Badge">
 <br />
 <br />
 I'm a Full Stack Developer with hands-on experience designing, developing and implementing applications and solutions using a range of technologies and programming languages.
