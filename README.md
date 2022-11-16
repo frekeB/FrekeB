@@ -3,26 +3,23 @@ Yinotherhino/Yinotherhino is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 <div align="center">
-  <h2> 👋Hello there, i am Ndifreke Etukudo, Welcome to my Github profile! </h2>
+  <h2> 👋Hello there, I am Ndifreke Etukudo, Welcome to my Github profile! </h2>
   <!-- <img src="https://github.com/frekeB" width="30"></h2> -->
-<a href="https://linkedin.com/in/muhammed-bayero-51781a11b" target="_blank">
+<a href="https://www.linkedin.com/in/ndifreke-etukudo/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://twitter.com/Moe_bolaji" target="_blank">
+<a href="https://twitter.com/Ndifreke-Etukud1" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
-<a href="https://instagram.com/bayino" target="_blank">
+<a href="https://instagram.com/freaky-frekey" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%ff5851db.svg?color=C13584&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
 <br />
 <br />
-  <a href="https://app.codesignal.com/profile/muhammed_29x">
-    Algorithm skills profile(Codesignal)
-  </a>
 <img src="https://www.codewars.com/users/frekeB/badges/large" alt="Freke Codewars Badge">
 <br />
 <br />
-I'm a Full Stack Developer with hands-on experience designing, developing and implementing applications and solutions using a range of technologies and programming languages.
+I'm a MERN Stack Developer with hands-on experience designing, developing and implementing applications and solutions using a range of technologies and programming languages.
 <br />
   <h4>Top  Projects:</h4>
   Javascript <a href="https://frekeb.github.io/Quiz-App/">xtracto- metadata extraction</a>
@@ -40,10 +37,10 @@ Please feel free to clone/fork my Repos, raise issues and submit PRs if you thin
 Ask me anything **[here]https://github.com/frekeB/FrekeB or <a href="etukufrekeb@gmail.com"><b>send me an email</b></a>.
 <br />
 <br />
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=yinotherhino&include_all_commits=true&count_private=true&show_icons=true&line_height=30&title_color=CDB4DB&icon_color=CDB4DB&text_color=D3D3D3&bg_color=0A0A0A" alt="Yinotherhino Github Stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=frekeb&include_all_commits=true&count_private=true&show_icons=true&line_height=30&title_color=CDB4DB&icon_color=CDB4DB&text_color=D3D3D3&bg_color=0A0A0A" alt="Freke Github Stats">
 <br />
 <br />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yinotherhino&layout=compact&theme=dark&bg_color=0A0A0A" alt=" Yinotherhino Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=frekeb&layout=compact&theme=dark&bg_color=0A0A0A" alt=" frekeb Top Languages"/>
 <br />
 <br />
 <br />
