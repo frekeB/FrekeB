@@ -25,20 +25,19 @@ You can click the Preview link to take a look at your changes.
 I'm a Full Stack Developer with hands-on experience designing, developing and implementing applications and solutions using a range of technologies and programming languages.
 <br />
   <h4>Top  Projects:</h4>
-  PHP- <a href="http://markazbaraje.org.ng">markazbaraje.org.ng-school</a><br />
-  Django- <a href="https://young-coast-20585.herokuapp.com/">xtracto- metadata extraction</a>
+  Javascript <a href="https://frekeb.github.io/Quiz-App/">xtracto- metadata extraction</a>
   <br />
-  Javascript SPA- <a href="https://starwarscharsapi.herokuapp.com/">StarwarsAPI- API consuming(heroku)</a> <a href="https://starwarscharsapi.netlify.app/">StarwarsAPI- API consuming(netlify)</a>
+  Javascript SPA- <a href="https://splendid-pixie-18552c.netlify.app/">StarwarsAPI- API consuming(heroku)</a> <a href="https://starwarscharsapi.netlify.app/">StarwarsAPI- API consuming(netlify)</a>
 <br />
   <br />
   I'm currently based in <a href="https://goo.gl/maps/wpi5Qva2FTCKDjpC6">Lagos, Nigeria.</a>
 <br/>
 <br />
-I love learning new techs and using new tools. I also love swimming and watching football(GGMU) when I am not coding.
+I am a technophile and i love learning and using new tools. You will find me swimming, or cooking when i am not coding.
 <br />
 <br />
-Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better.<br />
-Ask me anything **[here](https://github.com/yinotherhino/yinotherhino)** or <a href="mailto:muhammedbayero@gmail.com"><b>send me an email</b></a>.
+Please feel free to clone/fork my Repos, raise issues and submit PRs if you think something could be better.<br />
+Ask me anything **[here]https://github.com/frekeB/FrekeB or <a href="etukufrekeb@gmail.com"><b>send me an email</b></a>.
 <br />
 <br />
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=yinotherhino&include_all_commits=true&count_private=true&show_icons=true&line_height=30&title_color=CDB4DB&icon_color=CDB4DB&text_color=D3D3D3&bg_color=0A0A0A" alt="Yinotherhino Github Stats">
