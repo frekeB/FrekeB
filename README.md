@@ -25,7 +25,7 @@ I'm a MERN Stack Developer with hands-on experience designing, developing and im
    Javascript <a href=" Javascript <a href="https://frekeb.github.io/Quiz-App/">Quiz App</a>
   <br />">Find ingredient app</a>
   <br />
-  Javascript <a href="https://frekeb.github.io/Quiz-App/">Quiz App</a>
+  Javascript <a href="https://frekeb.github.io/Quiz-App/"> Find ingredient App</a>
   <br />
   Javascript <a href="https://authenticate-app.onrender.com">Authentication App</a>
   <br />
