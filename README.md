@@ -22,10 +22,9 @@ You can click the Preview link to take a look at your changes.
 I'm a MERN Stack Developer with hands-on experience designing, developing and implementing applications and solutions using a range of technologies and programming languages.
 <br />
   <h4>Top  Projects:</h4>
-   Javascript <a href=" Javascript <a href="https://frekeb.github.io/Quiz-App/">Quiz App</a>
-  <br />">Find ingredient app</a>
+   Javascript <a href="https://frekeb.github.io/Quiz-App/">Quiz App</a>
   <br />
-  Javascript <a href="https://frekeb.github.io/Quiz-App/"> Find ingredient App</a>
+  Javascript <a href="https://dancing-parfait-29d453.netlify.app/"> Find ingredient App</a>
   <br />
   Javascript <a href="https://authenticate-app.onrender.com">Authentication App</a>
   <br />
