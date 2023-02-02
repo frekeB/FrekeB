@@ -38,7 +38,7 @@ I am a technophile and i love learning and using new tools. You will find me swi
 <br />
 <br />
 Please feel free to clone/fork my Repos, raise issues and submit PRs if you think something could be better.<br />
-Ask me anything **[here]https://github.com/frekeB/FrekeB or <a href="etukufrekeb@gmail.com"><b>send me an email</b></a>.
+Ask me anything **[here]https://github.com/frekeB/FrekeB or <a href="etukfrekeb@gmail.com"><b>send me an email</b></a>.
 <br />
 <br />
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=frekeb&include_all_commits=true&count_private=true&show_icons=true&line_height=30&title_color=CDB4DB&icon_color=CDB4DB&text_color=D3D3D3&bg_color=0A0A0A" alt="Freke Github Stats">
