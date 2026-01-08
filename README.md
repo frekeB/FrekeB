@@ -22,13 +22,13 @@ You can click the Preview link to take a look at your changes.
 I'm a MERN Stack Developer with hands-on experience designing, developing and implementing applications and solutions using a range of technologies and programming languages.
 <br />
   <h4>Top  Projects:</h4>
-   Javascript <a href="https://frekeb.github.io/Quiz-App/">Quiz App</a>
+   React <a href="https://computervillageikeja.netlify.app/">Ecommerce app</a>
   <br />
-  Javascript <a href="https://dancing-parfait-29d453.netlify.app/"> Find ingredient App</a>
+  Javascript <a href="https://food-to-kook.netlify.app/"> Food to cook App</a>
   <br />
-  Javascript <a href="https://authenticate-app.onrender.com">Authentication App</a>
+  Javascript <a href="https://orderdefense.com/">Orderdefence  ecommerce insurance app</a>
   <br />
-  Javascript SPA- <a href="https://splendid-pixie-18552c.netlify.app/">StarwarsAPI- API consuming(heroku)</a> <a href="https://starwarscharsapi.netlify.app/">StarwarsAPI- API consuming(netlify)</a>
+  Javascript SPA- <a href="https://prompty-ai.netlify.app/">Prompt App AI integration</a> 
 <br />
   <br />
   I'm currently based in <a href="https://goo.gl/maps/wpi5Qva2FTCKDjpC6">Lagos, Nigeria.</a>
